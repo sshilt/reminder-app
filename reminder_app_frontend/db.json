@@ -1,0 +1,39 @@
+{
+  "reminders": [
+    {
+      "name": "Buy some eggs",
+      "timestamp": "2021-11-10T13:00:00.141Z",
+      "id": 1
+    },
+    {
+      "name": "Make an omelette",
+      "timestamp": "2021-11-11T08:00:00.141Z",
+      "id": 2
+    },
+    {
+      "name": "Wash dishes",
+      "timestamp": "2021-11-11T09:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Buy more eggs",
+      "timestamp": "2021-11-11T13:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Test",
+      "timestamp": "1.2",
+      "id": 5
+    },
+    {
+      "name": "Hello there",
+      "timestamp": "2.1.2020",
+      "id": 6
+    },
+    {
+      "name": "...",
+      "timestamp": "1.1.2011",
+      "id": 7
+    }
+  ]
+}
